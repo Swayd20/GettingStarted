@@ -7,5 +7,8 @@ print(greetings_eng.upper()[4])
 print(greetings_eng.index("h"))
 
 print("asdfgasdg")
+#i guess git dont recognize comments and react to them
+
+print(greetings_eng.replace("ll","tt"))
 
 
